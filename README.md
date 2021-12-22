@@ -19,9 +19,14 @@
 <h2>No seu arquivo .env altere as seguintes informações de acordo com as do seu BANCO DE DADOS:</h2>
 <p>
 DB_CONNECTION=mysql
+<br>
 DB_HOST=127.0.0.1
+<br>
 DB_PORT=3306
+<br>
 DB_DATABASE=cadastrousers
+<br>
 DB_USERNAME=root
+<br>
 DB_PASSWORD=
 </p>
