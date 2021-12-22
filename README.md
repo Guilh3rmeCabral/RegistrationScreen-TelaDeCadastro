@@ -1,6 +1,8 @@
-# RegistrationScreen-TelaDeCadastro
-<h1>Projeto realizado para fins de estudo, autoanálise e absorção do meu aprendizado no estágio (decorrente)</h1>
+<h1>RegistrationScreen-TelaDeCadastro</h1>
+
+# Projeto realizado para fins de estudo, autoanálise e absorção do meu aprendizado no estágio (decorrente)
 <p>O projeto ainda está em andamento, já já teremos novos commits ^^</p>
+<p>Css criado no html pois tive problemas no caminho</p>
 
 <h2>Aqui está o desenvolvimento de uma tela de cadastro</h2>
    <h3>Ferramentas e linguagens utilizados:</h3>
