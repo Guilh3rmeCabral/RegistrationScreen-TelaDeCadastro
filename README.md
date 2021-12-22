@@ -4,3 +4,7 @@
    <p>Framework Laravel 8</p>
    <p>Php</p>
    <p>IDE: Php Storm</p>
+   <p>BD: MySql</p>
+
+<h2>Para que consigam testar na maquina de vocês recomendo fazer as instalações a seguir:</h2>
+<p><a href="https://getcomposer.org/download/">Composer</a></p>
