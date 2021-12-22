@@ -15,3 +15,13 @@
 <p><a href="https://prnt.sc/241ns9t">Imagem para demonstrar</a> -> Depois de instalado o Xampp vamos rodar ele, para isso preciso que clique em start no Apche e no MySql, em seguida clique em admin do MySql</p>
 <p><a href="https://prnt.sc/241n1km">Imagem para demonstrar</a> -> Ele vai abrir o navegador e no canto esquerdo vai aparecer uma opção de criar um novo banco, clicando nele digite o nome do seu banco e execute</p>
 <p>Depois de realizar esses passos vamos para o código na IDE de preferência</p>
+
+<h2>No seu arquivo .env altere as seguintes informações de acordo com as do seu BANCO DE DADOS:</h2>
+<p>
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=cadastrousers
+DB_USERNAME=root
+DB_PASSWORD=
+</p>
