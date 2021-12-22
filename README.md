@@ -12,6 +12,6 @@
 <p><a href="https://nodejs.org/en/download/">Node.Js</a> -> Para poder instalar as pendência e no terminal do projeto digite npm install</p>
 
 <h2>Integração programa e banco de dados:</h2>
-<p>Depois de instalado o Xampp vamos rodar ele, para isso preciso que clique em start no Apche e no MySql, em seguida clique em admin do MySql</p>
-<p><a href="https://prnt.sc/241n1km">Imagem</a>Ele vai abrir o navegador e no canto esquerdo vai aparecer uma opção de criar um novo banco, clicando nele digite o nome do seu banco e execute.</p>
+<p><a href="https://prnt.sc/241ns9t">Imagem para demonstrar</a> -> Depois de instalado o Xampp vamos rodar ele, para isso preciso que clique em start no Apche e no MySql, em seguida clique em admin do MySql</p>
+<p><a href="https://prnt.sc/241n1km">Imagem para demonstrar</a> -> Ele vai abrir o navegador e no canto esquerdo vai aparecer uma opção de criar um novo banco, clicando nele digite o nome do seu banco e execute</p>
 <p>Depois de realizar esses passos vamos para o código na IDE de preferência</p>
