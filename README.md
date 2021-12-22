@@ -1,4 +1,7 @@
 # RegistrationScreen-TelaDeCadastro
+<h1>Projeto realizado para fins de estudo, autoanálise e absorção do meu aprendizado no estágio (decorrente)</h1>
+<p>O projeto ainda está em andamento, já já teremos novos commits ^^</p>
+
 <h2>Aqui está o desenvolvimento de uma tela de cadastro</h2>
    <h3>Ferramentas e linguagens utilizados:</h3>
    <p>Framework Laravel 8</p>
@@ -30,3 +33,18 @@ DB_USERNAME=root
 <br>
 DB_PASSWORD=
 </p>
+
+<p>Feito isso vamos para o proximo passo</p>
+
+<h2>No terminal da IDE digite:</h2>
+<p>php artisan migrate -> Ele vai fazer todas as migrações que estão no seu código para o banco de dados</p>
+<p>OBSERVAÇÃO: Antes certifique de estar na pasta real do projeto que é: TelaDeCadastro</p> 
+
+<p>A seguir digite: php artisan serve -> vai iniciar um servidor local para rodar o projeto</p>
+<p>Agora aperte ctrl + clique (Win e Linux) ou command + clique (Mac)</p>
+
+<p>Agora é só testar entrando nesta rota http://localhost/cadastro-user</p>
+
+<h2>Visualização do projeto através do vídeo</h2>
+<p><a href="https://drive.google.com/file/d/1qgbY0owkNUCfISvaH5907YUvQjPJbz0O/view?usp=sharing">Vídeo via Driver</a> -> Vídeo(1) projeto funcinando</p>
+<p><a href="https://drive.google.com/file/d/1qVCbeHr8CPsE81vIbAeSozvahVucaPh8/view?usp=sharing">Vídeo via Driver</a> -> Vídeo(2) projeto funcinando</p>
