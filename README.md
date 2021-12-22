@@ -7,4 +7,4 @@
    <p>BD: MySql</p>
 
 <h2>Para que consigam testar na maquina de vocês recomendo fazer as instalações a seguir:</h2>
-<p><a href="https://getcomposer.org/download/">Composer</a></p>
+<p><a href="https://getcomposer.org/download/">Composer</a> -> Pode ser feito através do command-line ou atráves do .exe</p>
